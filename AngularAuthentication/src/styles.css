@@ -1,0 +1,64 @@
+/* You can add global styles to this file, and also import other style files */
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+html, body, material-app, mat-sidenav-container, mat-sidenav-content {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+  }
+
+  .mat-drawer-container {
+    background-color: #fafafa;
+    height: 94vh;
+    color: rgba(0,0,0,.87);
+}
+.mat-toolbar.mat-primary {
+    background: #cc0000;
+    color: #fff;
+}
+
+.wrapper{
+    height:90vh;
+}
+
+.mat-drawer.mat-drawer-side {
+    z-index: 2;
+    width: 24%;
+}
+
+
+.mat-expansion-panel-spacing{
+    margin:0 !important;
+  }
+
+  .mat-expansion-panel{
+      margin:5px !important;
+  }
+
+  .mat-expansion-panel-header{
+    background-color: #cc0000 !important;
+    color: #fff !important;
+}
+
+.mat-expansion-panel-header-title{
+    color:#fff !important;
+}
+
+*:focus {
+    outline: none !important;
+    border: 0 !important;
+}
+.cdk-overlay-connected-position-bounding-box{top: 65px !important;left: 1295.51px !important;}
+.menu-list.mat-menu-panel{min-width: 170px;}
+.bee-spinner {
+    width: 5%;
+    height: 17%;
+    position: fixed;
+    top: 48%;
+    left: calc(50% - 5%);
+    z-index: 100;
+    background-image: url(./assets/images/giphy.gif);
+    background-repeat: no-repeat;
+    background-size: 97%;
+    /* animation: bouncing 0.4s cubic-bezier(0.1, 0.25, 0.1, 1) 0s infinite */
+      /* alternate both; */
+  }

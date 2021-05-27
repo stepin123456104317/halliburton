@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="553" height="33.174" viewBox="0 0 553 33.174">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Path_2" data-name="Path 2" d="M284,113.694h8.344V103.328h17.6v10.366h8.344V86.3h-8.344v9.761h-17.6V86.3H284Zm37.263,0h9.324l2.447-4.844h16.918l2.6,4.844h9.288L346.868,86.3H336Zm20.157-21.038,5.411,10.3H336.153Zm23.388,21.038h27.108v-7.036H373.154V86.3h-8.346Zm30.65,0h27.108v-7.036H403.8V86.3h-8.342Zm31.1,0H434.9V86.3h-8.342Zm14.438,0h26.584c4.776,0,8.306-1.245,8.306-7.264,0-4.124-1.353-6.087-5-6.544v-.113c2.327-.684,4.018-1.591,4.018-6.284,0-5.371-3.23-7.186-9.883-7.186H441Zm8.342-10.861h14.972c1.807,0,3.01.416,3.01,2.276,0,1.589-1.2,2.005-3.01,2.005H449.337Zm0-9.95h14.783c1.541,0,2.445.568,2.445,2.159,0,1.551-.9,2.125-2.445,2.125H449.337Zm31.594,11.057c0,6.8,3.494,10.06,11.165,10.06h11.959c7.67,0,11.167-3.255,11.167-10.06V86.3h-8.342v15.818c0,3.48-1.244,4.844-4.664,4.844H493.94c-3.425,0-4.665-1.364-4.665-4.844V86.3h-8.344Zm48.279-10.83h13.052c2.633,0,3.836.451,3.836,2.877V96.9c0,1.968-.825,2.874-3.084,2.874h-13.8Zm-8.342,20.583h8.342v-7.113h13.126c2.594,0,3.422.946,3.422,3.82v3.293H554.1v-4.655c0-4.5-2.067-5.6-4.547-6.051v-.076c3.834-.907,4.661-3.066,4.661-6.735v-1.74c0-4.917-1.727-8.133-8.154-8.133H520.868Zm37-20.583H569.6v20.583h8.345V93.111h11.734V86.3H557.868Zm34.865,10.978c0,8.021,4.47,9.911,11.99,9.911h13.386c7.523,0,11.993-1.891,11.993-9.911v-8.18c0-8.02-4.47-9.909-11.993-9.909H604.723c-7.521,0-11.99,1.889-11.99,9.909Zm8.566-5.566c0-3.408.828-5.49,5.228-5.49h9.781c4.4,0,5.228,2.082,5.228,5.49v2.953c0,3.977-.83,5.49-4.78,5.49H606.079c-3.953,0-4.78-1.513-4.78-5.49Zm33.85,15.172h8.344v-19.9h.072l15.685,19.9h12.932V86.3h-8.34v19.905h-.078L648.081,86.3H635.148Z" transform="translate(-284 -86)" fill="#fff" clip-rule="evenodd"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="Rectangle_7267" data-name="Rectangle 7267" width="2138.261" height="164.733" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Logo" transform="translate(-42 -21)">
+    <g id="Group_9164" data-name="Group 9164" transform="translate(-144 -60)">
+      <g id="Group_9163" data-name="Group 9163" transform="translate(186 86)" clip-path="url(#clip-path)">
+        <g id="Group_9162" data-name="Group 9162" transform="translate(-181.043 -54.503)">
+          <g id="Group_9161" data-name="Group 9161" transform="translate(0 0)" clip-path="url(#clip-path-2)">
+            <rect id="Rectangle_7266" data-name="Rectangle 7266" width="401.23" height="39.144" transform="translate(174.519 48.93)" fill="#fff"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text id="Swellsim" transform="translate(475 47)" fill="#fff" font-size="20" font-family="Roboto-Bold, Roboto" font-weight="700" letter-spacing="0.046em" opacity="0.87"><tspan x="0" y="0">SWELLSIM</tspan></text>
+    <path id="Path_68861" data-name="Path 68861" d="M0-4.174V23.5" transform="translate(452.5 30.674)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="_" data-name="®" transform="translate(595 36)" fill="#fff" font-size="16" font-family="Roboto-Regular, Roboto"><tspan x="-12.578" y="0">®</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+
+<div class="header">
+    <mat-toolbar>
+        
+        <button mat-icon-button class="example-icon menu-icon" aria-label="Example icon-button with menu icon">
+            <!-- <mat-icon>menu</mat-icon> -->
+        </button>
+        <span class="logo">HALLIBURTON</span>
+        <span class="example-spacer"></span>
+        <button mat-icon-button class="example-icon favorite-icon profile-pic"
+            aria-label="Example icon-button with heart icon">
+            <!-- <mat-icon area-hidden="false">search</mat-icon> -->
+            
+        </button>
+        
+        
+        <button mat-button [matMenuTriggerFor]="menu" class="user-name">{{name}}
+            <br/>
+            <i class="bi bi-star-fill"></i>
+            <small>Super Admin</small>
+        </button>
+        <mat-menu class="menu-list" #menu="matMenu" yPosition="above">
+            <!-- <button mat-menu-item>Account</button> -->
+            <i class="fas fa-user-circle"></i>
+            <button mat-menu-item *ngIf="loggedIn" (click)="logout()">Log Out</button>
+        </mat-menu>
+        <!-- <span class="arrow">
+            <mat-icon>arrow_drop_down</mat-icon>
+            <button mat-raised-button *ngIf="loggedIn" (click)="logout()">Logout</button>
+        </span> -->
+    </mat-toolbar>
+</div>
